@@ -1,0 +1,7 @@
+name: RewardSender
+version: @version@
+main: com.github.nashi2603.rewardsender.RewardSender
+api-version: 1.13
+authors: [nashi2603]
+description: Any rewards give spigot plugin.
+website: https://github.com/nashi2603/RewardSender
